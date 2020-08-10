@@ -36,5 +36,5 @@ def generate_caption(img_path):
     return caption
 
 if __name__=="__main__":
-    img_path = '../test_samples/dog.jpg'
+    img_path = '../test_samples/1104133405_c04a00707f.jpg'
     generate_caption(img_path)

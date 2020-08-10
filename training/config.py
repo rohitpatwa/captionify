@@ -9,7 +9,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 load_model = False
 train_CNN = True
 save_checkpoint_path="../trained_models"
-load_checkpoint_path="../trained_models/checkpoint_5.pth.tar"
+load_checkpoint_path="../trained_models/checkpoint_90.pth.tar"
 save_model=True
 
 embed_size = 256
