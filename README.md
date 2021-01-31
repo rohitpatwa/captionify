@@ -1,5 +1,5 @@
 # Image Captioning
-Can a computer program take an image as input and produce a relevant caption as output?
+Can a computer take an image as input and produce a relevant caption as output?
 
 ### Instructions of running the the project
 
